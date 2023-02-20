@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "UrlsSearch",
+  "description": "chrome extension that reverse image searches any image on google and displays similar products from Amazon, with affiliate links for each result.",
+  "version": "1.0",
+  
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
